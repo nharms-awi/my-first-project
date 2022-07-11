@@ -9,6 +9,10 @@ Another paragraph.
 
 This section is important
 
-## Last one
+## This is not the last one anymore
 
 This will be the last paragraph for now
+
+## Add another heading
+
+Maybe this will be the last.
