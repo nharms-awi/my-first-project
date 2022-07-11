@@ -21,6 +21,6 @@ Maybe this will be the last.
 
 Text
 
-# The real last Paragraph
+## The real last Paragraph
 
 This is important text too.
